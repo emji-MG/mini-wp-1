@@ -4,7 +4,7 @@ const Schema = mongoose.Schema
 const articleSchema = new Schema({
     title : {
         type : String,
-        required : [true, 'title is required, pleas fill in this field ']
+        required : [true, 'title is required, please fill in this field ']
     },
     content : {
         type : String,
