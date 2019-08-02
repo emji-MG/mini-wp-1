@@ -35,7 +35,9 @@
 </template>
 
 <script>
-    const serverUrl = `http://localhost:3000/`
+    // const serverUrl = `http://localhost:3000/`
+    const serverUrl = `http://34.66.247.189/`
+
 export default {
     data() {
         return {

@@ -10,7 +10,8 @@ new Vue(App).$mount('#app');
 
 
 
-let serverURL = `http://localhost:3000`
+// let serverURL = `http://localhost:3000`
+const serverUrl = `http://34.66.247.189/`
 
 var app = new Vue({
     el: '#app',
